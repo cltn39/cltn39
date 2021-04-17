@@ -1,4 +1,7 @@
-<img src="img/github-intro-banner.png" alt="Chris Song's Github intro banner">
+
+<img src="github-intro-banner.png" width="100%" alt="Chris Song's Github intro banner">
+
+
 
 ## Hello, this is Chris
 
