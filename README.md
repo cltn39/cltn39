@@ -1,4 +1,15 @@
-### Hi there 👋
+<img src="img/github-intro-banner.png" alt="Chris Song's Github intro banner">
+
+## Hello, this is Chris
+
+### 💬 Ask me about ...
+  ✨ collaborations ✨ , ❓ questions ❓, and ⚡ share coding related news!⚡
+### 🔭 I’m currently working on ...
+  - third-party game match history/data searcher using REACTJS, GraphQL, API, Node, Express & SQL
+  - Journaling & logging daily code challeneges
+  - Improving & maintaining current repositories
+
+<!-- ### 📚 Where I learn 
 
 <!--
 **cltn39/cltn39** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
