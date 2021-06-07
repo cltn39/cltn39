@@ -3,7 +3,7 @@
 
 
 
-## Hello, this is Chris
+## Hello, This is Chris
 
 ### 💬 Ask me about ...
   ✨ collaborations ✨ , ❓ questions ❓, and ⚡ share coding related news!⚡
